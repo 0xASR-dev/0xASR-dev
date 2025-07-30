@@ -88,11 +88,11 @@ me.say_hi()
 
 ---
 
-## ⏰ Weekly Coding Activity
+## ⏰ All Coding Activity
 
 <div align="center">
   
-  [![wakatime](https://wakatime.com/badge/user/0xASR_dev.svg)](https://wakatime.com/@0xASR_dev)
+ [![wakatime](https://wakatime.com/badge/user/f9369397-0e98-4447-88ab-5cc069cc602f.svg)](https://wakatime.com/@f9369397-0e98-4447-88ab-5cc069cc602f)
   
   <img height="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=0xASR_dev&theme=tokyonight&layout=compact"/>
 
@@ -134,7 +134,7 @@ me.say_hi()
 
 ## 🏆 Skills & Expertise
 
-<div align="center">
+<div align="left">
 
 ### 📊 **Data Science & Analytics**
 - 🔍 Exploratory Data Analysis (EDA)
@@ -178,10 +178,10 @@ me.say_hi()
 ### 🎯 **Recent Highlights**
 
 | 📊 **Data Science** | 🌐 **Web Development** | 🔗 **IoT Projects** |
-|:---:|:---:|:---:|
+<!-- |:---:|:---:|:---:|
 | Customer Churn Prediction | E-commerce Full Stack App | Smart Home Security System |
 | Stock Price Forecasting | Real-time Chat Application | IoT Environmental Monitor |
-| Sentiment Analysis Tool | Portfolio Website | Smart Agriculture System |
+| Sentiment Analysis Tool | Portfolio Website | Smart Agriculture System | -->
 
 </div>
 
@@ -255,4 +255,9 @@ BLOG-POST-LIST:END -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+mine
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/0xASR-dev/0xASR-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
