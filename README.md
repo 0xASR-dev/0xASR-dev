@@ -178,6 +178,8 @@ me.say_hi()
 ### 🎯 **Recent Highlights**
 
 | 📊 **Data Science** | 🌐 **Web Development** | 🔗 **IoT Projects** |
+
+soon to be updated
 <!-- |:---:|:---:|:---:|
 | Customer Churn Prediction | E-commerce Full Stack App | Smart Home Security System |
 | Stock Price Forecasting | Real-time Chat Application | IoT Environmental Monitor |
@@ -253,10 +255,10 @@ BLOG-POST-LIST:END -->
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-mine
+mine -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/0xASR-dev/0xASR-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
