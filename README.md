@@ -92,9 +92,9 @@ me.say_hi()
 
 <div align="center">
   
-  [![wakatime](https://wakatime.com/badge/user/0xASR-dev.svg)](https://wakatime.com/@0xASR-dev)
+  [![wakatime](https://wakatime.com/badge/user/0xASR_dev.svg)](https://wakatime.com/@0xASR_dev)
   
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=0xASR-dev&theme=tokyonight&layout=compact"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=0xASR_dev&theme=tokyonight&layout=compact"/>
 
 </div>
 
@@ -201,10 +201,10 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/0xASR-dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avneesh-singh-dev)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xASR_dev)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://0xasr.dev)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@0xasr.dev)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avneeshsingh.job@gmail.com)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/0xASRdev)
 
 </div>
@@ -219,7 +219,7 @@ me.say_hi()
 🔸 I can debug Python code faster than I can solve a Rubik's cube
 🔸 My IoT devices probably know me better than I know myself
 🔸 I dream in algorithms and wake up thinking in data structures
-🔸 Coffee.exe is my most reliable dependency
+🔸 **H<sub>2</sub>O**.exe is my most reliable dependency
 🔸 I speak fluent Python, JavaScript, and data visualization
 🔸 Always excited about the intersection of AI, IoT, and Security!
 ```
@@ -231,11 +231,11 @@ me.say_hi()
 ## 📚 Latest Learning & Articles
 
 <!-- BLOG-POST-LIST:START -->
-🔗 [Building ML Models for IoT Security](https://0xasr.dev/ml-iot-security)
+<!-- 🔗 [Building ML Models for IoT Security](https://0xasr.dev/ml-iot-security)
 🔗 [Full Stack Development with MERN Stack](https://0xasr.dev/mern-stack-guide)
 🔗 [Data Visualization Best Practices](https://0xasr.dev/data-viz-guide)
 🔗 [Smart Home Automation with Raspberry Pi](https://0xasr.dev/smart-home-pi)
-<!-- BLOG-POST-LIST:END -->
+BLOG-POST-LIST:END -->
 
 ---
 
