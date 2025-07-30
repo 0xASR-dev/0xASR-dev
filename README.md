@@ -1,6 +1,6 @@
 # 🚀 Hey there, I'm Avneesh Singh Rajpoot! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-
+<!-- 
 <div align="center">
   <img 
   height="200" 
@@ -10,7 +10,7 @@
   onmouseover="this.style.borderRadius='20px';"
   onmouseout="this.style.borderRadius='50%';"
 >
-</div>
+</div> -->
 
 
 
@@ -232,13 +232,13 @@ soon to be updated
 
 ## 💡 Fun Facts & Interests
 
-<div align="center">
+<div align="left">
 
 ```
 🔸 I can debug Python code faster than I can solve a Rubik's cube
 🔸 My IoT devices probably know me better than I know myself
 🔸 I dream in algorithms and wake up thinking in data structures
-🔸 **H<sub>2</sub>O**.exe is my most reliable dependency
+🔸 water.exe is my most reliable dependency
 🔸 I speak fluent Python, JavaScript, and data visualization
 🔸 Always excited about the intersection of AI, IoT, and Security!
 ```
