@@ -1,4 +1,18 @@
-# 🚀 Hey there, I'm ASR! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+# 🚀 Hey there, I'm Avneesh Singh Rajpoot! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+
+
+<div align="center">
+  <img 
+  height="200" 
+  src="https://avatars.githubusercontent.com/u/145979440" 
+  alt="GitHub Avatar"
+  style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; transition: border-radius 0.3s ease;"
+  onmouseover="this.style.borderRadius='20px';"
+  onmouseout="this.style.borderRadius='50%';"
+>
+</div>
+
+
 
 <div align="center">
   
@@ -7,6 +21,41 @@
 </div>
 
 ---
+
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avneesh-singh-dev)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xASR_dev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://0xasr.dev)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avneeshsingh.job@gmail.com)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/0xASRdev)
+
+</div>
+
+<!-- these are new element for socials -->
+<!-- <div align="center">
+  <a href="https://linkedin.com/in/avneesh-singh-dev">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/0xASR_dev">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="52" height="40" alt="twitter logo" />
+  </a>
+  <a href="mailto:avneeshsingh.job@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://kaggle.com/0xASRdev">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="52" height="40" alt="kaggle logo" />
+  </a>
+  <a href="https://0xasr.dev">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="52" height="40" alt="chrome logo" />
+  </a>  
+</div> -->
+
+
+----
 
 ## 🚀 About Me
 
@@ -134,38 +183,11 @@ me.say_hi()
 
 ## 🏆 Skills & Expertise
 
-<div align="left">
+<div align="center">
 
-### 📊 **Data Science & Analytics**
-- 🔍 Exploratory Data Analysis (EDA)
-- 📈 Statistical Modeling & Hypothesis Testing
-- 🤖 Machine Learning Algorithms
-- 📊 Data Visualization (Matplotlib, Seaborn, Plotly)
-- 🧠 Deep Learning & Neural Networks
-- 📋 Feature Engineering & Selection
-
-### 🌐 **Web Development**
-- 🎨 Frontend: React.js, HTML5, CSS3, Bootstrap
-- ⚙️ Backend: Node.js, Express.js, RESTful APIs
-- 🗄️ Databases: MongoDB, MySQL, PostgreSQL
-- 🔧 Full Stack Development
-- 📱 Responsive Web Design
-- 🚀 Deployment & DevOps
-
-### 🔗 **IoT & Smart Systems**
-- 📡 Sensor Integration & Data Collection
-- 🤖 Embedded Systems Programming
-- 📊 IoT Data Analytics
-- 🔐 IoT Security Implementation
-- ☁️ Cloud IoT Platforms
-- 🏠 Smart Home Automation
-
-### 🛡️ **Cybersecurity**
-- 🔍 Network Security Analysis
-- 📊 Security Data Analytics
-- 🔐 Vulnerability Assessment
-- 🛠️ Security Tool Development
-- 📈 Threat Intelligence Analysis
+| 📊 Data Science & Analytics | 🌐 Web Development | 🔗 IoT & Smart Systems | 🛡️ Cybersecurity |
+|:---:|:---:|:---:|:---:|
+| Exploratory Data Analysis (EDA)<br>Statistical Modeling<br>Machine Learning Algorithms<br>Data Visualization<br>Deep Learning & Neural Networks<br>Feature Engineering & Selection | Frontend: React, HTML, CSS<br>Backend: Node.js, Express<br>Databases: MongoDB, MySQL<br>Full Stack Development<br>Responsive Web Design<br>Deployment & DevOps | Sensor Integration<br>Embedded Systems Programming<br>IoT Data Analytics<br>IoT Security Implementation<br>Cloud IoT Platforms<br>Smart Home Automation | Network Security Analysis<br>Security Data Analytics<br>Vulnerability Assessment<br>Security Tool Development<br>Threat Intelligence Analysis |
 
 </div>
 
@@ -193,23 +215,18 @@ soon to be updated
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xASR-dev&theme=tokyo-night&hide_border=true)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xASR-dev&theme=chartreuse-dark&hide_border=true)
   
 </div>
 
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avneesh-singh-dev)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xASR_dev)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://0xasr.dev)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avneeshsingh.job@gmail.com)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/0xASRdev)
-
+<div align="center" >
+  <h3>Contributions</h3>
 </div>
+<div align="center" style="margin-top:-10mm;">
+  <img src="https://raw.githubusercontent.com/0xASR-dev/0xASR-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+
 
 ---
 
@@ -249,17 +266,9 @@ BLOG-POST-LIST:END -->
 
 **Thanks for visiting! 🚀 Feel free to reach out if you want to collaborate on Data Science, ML, Web Development, or IoT projects!**
 
-**🎓 Dual Degree Student | 📊 Data Enthusiast | 🌐 Full Stack Developer | 🔗 IoT Innovator**
-
 </div>
 
 ---
 
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-mine -->
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/0xASR-dev/0xASR-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+
