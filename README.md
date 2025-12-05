@@ -1,6 +1,6 @@
 # 🚀 Hey there, I'm Avneesh Singh Rajpoot! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-<!-- 
+
 <div align="center">
   <img 
   height="200" 
@@ -10,7 +10,7 @@
   onmouseover="this.style.borderRadius='20px';"
   onmouseout="this.style.borderRadius='50%';"
 >
-</div> -->
+</div>
 
 
 
@@ -27,11 +27,30 @@
 
 <div align="center">
 
+<div align="center">
+  <a href="https://x.com/0xASR_dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/0xasr.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/avneesh-singh-dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto: avneeshsingh.job@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://kaggle.com/0xASRdev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=kaggle&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="40" alt="kaggle logo"  />
+  </a>
+</div>
+
+<!-- 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avneesh-singh-dev)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xASR_dev)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://0xasr.dev)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avneeshsingh.job@gmail.com)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/0xASRdev)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/0xASRdev) -->
 
 </div>
 
@@ -152,17 +171,29 @@ me.say_hi()
 
 ## 📊 GitHub Analytics
 
+ 
 <div align="center">
-  
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=0xASR-dev" alt="GitHub Streak" /></a>
+
+<!-- GitHub Stats using github-profile-summary-cards -->
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xASR-dev&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xASR-dev&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xASR-dev&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xASR-dev&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xASR-dev&theme=tokyonight&utcOffset=8)
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/? username=0xASR-dev&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xASR-dev&theme=tokyonight)
-  
-</div>
+
+
 
 ---
 
