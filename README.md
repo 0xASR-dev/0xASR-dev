@@ -143,7 +143,7 @@ me.say_hi()
   
  [![wakatime](https://wakatime.com/badge/user/f9369397-0e98-4447-88ab-5cc069cc602f.svg)](https://wakatime.com/@f9369397-0e98-4447-88ab-5cc069cc602f)
   
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=0xASR_dev&theme=tokyonight&layout=compact"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=0xASRdev&theme=tokyonight&layout=compact"/>
 
 </div>
 
