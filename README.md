@@ -143,8 +143,7 @@ me.say_hi()
   
  [![wakatime](https://wakatime.com/badge/user/f9369397-0e98-4447-88ab-5cc069cc602f.svg)](https://wakatime.com/@f9369397-0e98-4447-88ab-5cc069cc602f)
 
-  <figure><embed src="https://wakatime.com/share/@0xASR_dev/7e7237fe-5226-4be5-b80f-4e11fea520ad.svg"></embed></figure>
-  
+ ![WakaTime Stats](https://wakatime.com/share/@0xASR_dev/7e7237fe-5226-4be5-b80f-4e11fea520ad.svg)
   
 
 </div>
@@ -155,8 +154,7 @@ me.say_hi()
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xASR-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xASR-dev&layout=compact&theme=tokyonight"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=0xASR-dev" alt="GitHub Streak" /></a>
 
 </div>
 
