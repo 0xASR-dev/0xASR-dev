@@ -27,23 +27,23 @@
 
 <div align="center">
 
-<div align="center">
+
   <a href="https://x.com/0xASR_dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="120" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="180" alt="twitter logo"  />
   </a>
   <a href="https://www.instagram.com/0xasr.dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="120" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&logoColor=white&labelColor=&style=flat" height="180" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/avneesh-singh-dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="120" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="180" alt="linkedin logo"  />
   </a>
   <a href="mailto: avneeshsingh.job@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="120" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="180" alt="gmail logo"  />
   </a>
   <a href="https://kaggle.com/0xASRdev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=kaggle&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="120" alt="kaggle logo"  />
+    <img src="https://img.shields.io/static/v1?message=kaggle&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="180" alt="kaggle logo"  />
   </a>
-</div>
+
 
 <!-- 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avneesh-singh-dev)
