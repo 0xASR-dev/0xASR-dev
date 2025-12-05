@@ -145,7 +145,7 @@ me.say_hi()
 
   <figure><embed src="https://wakatime.com/share/@0xASR_dev/7e7237fe-5226-4be5-b80f-4e11fea520ad.svg"></embed></figure>
   
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=0xASR_dev&theme=tokyonight&layout=compact"/>
+  
 
 </div>
 
