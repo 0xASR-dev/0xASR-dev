@@ -1,17 +1,5 @@
 # 🚀 Hey there, I'm Avneesh Singh Rajpoot! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-<!-- 
-<div align="center">
-  <img 
-  height="200" 
-  src="https://avatars.githubusercontent.com/u/145979440" 
-  alt="GitHub Avatar"
-  style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; transition: border-radius 0.3s ease;"
-  onmouseover="this.style.borderRadius='20px';"
-  onmouseout="this.style.borderRadius='50%';"
->
-</div> -->
-
 
 
 <div align="center">
@@ -143,7 +131,7 @@ me.say_hi()
   
  [![wakatime](https://wakatime.com/badge/user/f9369397-0e98-4447-88ab-5cc069cc602f.svg)](https://wakatime.com/@f9369397-0e98-4447-88ab-5cc069cc602f)
 
-  <figure><embed src="https://wakatime.com/share/@0xASR_dev/7e7237fe-5226-4be5-b80f-4e11fea520ad.svg"></embed></figure>
+  ![WakaTime Chart](https://wakatime.com/share/@0xASR_dev/7e7237fe-5226-4be5-b80f-4e11fea520ad.svg)
   
   <img height="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=0xASR_dev&theme=tokyonight&layout=compact"/>
 
@@ -201,13 +189,7 @@ me.say_hi()
 
 ### 🎯 **Recent Highlights**
 
-| 📊 **Data Science** | 🌐 **Web Development** | 🔗 **IoT Projects** |
-
-soon to be updated
-<!-- |:---:|:---:|:---:|
-| Customer Churn Prediction | E-commerce Full Stack App | Smart Home Security System |
-| Stock Price Forecasting | Real-time Chat Application | IoT Environmental Monitor |
-| Sentiment Analysis Tool | Portfolio Website | Smart Agriculture System | -->
+🚧 *Projects coming soon - stay tuned!* 🚧
 
 </div>
 
@@ -224,7 +206,7 @@ soon to be updated
 <div align="center" >
   <h3>Contributions</h3>
 </div>
-<div align="center" style="margin-top:-10mm;">
+<div align="center">
   <img src="https://raw.githubusercontent.com/0xASR-dev/0xASR-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
@@ -248,15 +230,6 @@ soon to be updated
 </div>
 
 ---
-
-## 📚 Latest Learning & Articles
-
-<!-- BLOG-POST-LIST:START -->
-<!-- 🔗 [Building ML Models for IoT Security](https://0xasr.dev/ml-iot-security)
-🔗 [Full Stack Development with MERN Stack](https://0xasr.dev/mern-stack-guide)
-🔗 [Data Visualization Best Practices](https://0xasr.dev/data-viz-guide)
-🔗 [Smart Home Automation with Raspberry Pi](https://0xasr.dev/smart-home-pi)
-BLOG-POST-LIST:END -->
 
 ---
 
