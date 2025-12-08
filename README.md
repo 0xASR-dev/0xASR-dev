@@ -158,11 +158,12 @@ me.say_hi()
 
 ## ⏰ All Coding Activity
 
+
 <div align="center">
   
  [![wakatime](https://wakatime.com/badge/user/f9369397-0e98-4447-88ab-5cc069cc602f.svg)](https://wakatime.com/@f9369397-0e98-4447-88ab-5cc069cc602f)
 
- ![WakaTime Stats](https://wakatime.com/share/@0xASR_dev/7e7237fe-5226-4be5-b80f-4e11fea520ad.svg)
+ <img src="https://wakatime.com/share/@0xASR_dev/7e7237fe-5226-4be5-b80f-4e11fea520ad.svg" alt="WakaTime Stats" width="600" />
   
 
 </div>
@@ -173,23 +174,24 @@ me.say_hi()
 
  
 <div align="center">
+  <!-- First Row: Main Profile Details and Trophies (stacked vertically within their groups for better mobile view) -->
+  <div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xASR-dev&theme=tokyonight" alt="Profile Details" />
+    <img src="https://github-profile-trophy.vercel.app/?username=0xASR-dev&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  </div>
+  
+  <!-- Second Row: Stats, Repos per Language, Most Commit Language (side-by-side) -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xASR-dev&theme=tokyonight" alt="GitHub Stats" style="padding: 5px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xASR-dev&theme=tokyonight" alt="Repos per Language" style="padding: 5px;" />
+    
+  </div>
 
-<!-- GitHub Stats using github-profile-summary-cards -->
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xASR-dev&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xASR-dev&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xASR-dev&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xASR-dev&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xASR-dev&theme=tokyonight&utcOffset=8)
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/? username=0xASR-dev&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-
+  <!-- Third Row: Productive Time (centered on its own row) -->
+  <div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xASR-dev&theme=tokyonight" alt="Most Commit Language" style="padding: 5px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xASR-dev&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+  </div>
 </div>
 
 
@@ -212,7 +214,7 @@ me.say_hi()
 
 ---
 
-## 🏆 Skills & Expertise
+<!-- ## 🏆 Skills & Expertise
 
 <div align="center">
 
@@ -222,9 +224,9 @@ me.say_hi()
 
 </div>
 
----
+--- -->
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 
 <div align="center">
 
@@ -233,14 +235,14 @@ me.say_hi()
 | 📊 **Data Science** | 🌐 **Web Development** | 🔗 **IoT Projects** |
 
 soon to be updated
-<!-- |:---:|:---:|:---:|
+|:---:|:---:|:---:|
 | Customer Churn Prediction | E-commerce Full Stack App | Smart Home Security System |
 | Stock Price Forecasting | Real-time Chat Application | IoT Environmental Monitor |
-| Sentiment Analysis Tool | Portfolio Website | Smart Agriculture System | -->
+| Sentiment Analysis Tool | Portfolio Website | Smart Agriculture System |
 
 </div>
 
----
+--- -->
 
 ## 📈 Contribution Activity
 
