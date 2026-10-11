@@ -9,10 +9,10 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0xasr--dev-00F7FF?style=flat-square&logo=googlechrome&logoColor=black)](https://0xasr.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0xASR-00F7FF?style=flat-square&logo=google-chrome&logoColor=black)](https://0xasr.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Avneesh_Singh-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/avneesh-singh-dev)
 [![Twitter](https://img.shields.io/badge/Twitter%2FX-@0xASR__dev-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/0xASR_dev)
-[![Instagram](https://img.shields.io/badge/Instagram-@0xasr__dev-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/0xasr.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-0xASR-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/0xasr.dev)
 [![Kaggle](https://img.shields.io/badge/Kaggle-0xASRdev-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/0xASRdev)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:avneeshsingh.job@gmail.com)
 
