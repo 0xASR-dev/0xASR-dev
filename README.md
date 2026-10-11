@@ -1,84 +1,62 @@
-# 🚀 Hey there, I'm Avneesh Singh Rajpoot! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-
-<!-- 
 <div align="center">
-  <img 
-  height="200" 
-  src="https://avatars.githubusercontent.com/u/145979440" 
-  alt="GitHub Avatar"
-  style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; transition: border-radius 0.3s ease;"
-  onmouseover="this.style.borderRadius='20px';"
-  onmouseout="this.style.borderRadius='50%';"
->
-</div> -->
 
+# 👨‍💻 Avneesh Singh Rajpoot
+### Data Science & ML • IoT Systems • Full-Stack Engineering
 
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=BS+in+Data+Science+%26+Applications+%40+IIT+Madras;B.Tech+in+IoT+Engineering+%40+MITS+Gwalior;Building+ML+Models+%26+Intelligent+Data+Pipelines;Full-Stack+Web+%26+IoT+Smart+Systems+Builder;Passionate+about+Cybersecurity+%26+Systems+Design" alt="Typing SVG" />
+</a>
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+ML+Student+%F0%9F%A4%96;Full+Stack+Web+Developer+%F0%9F%8C%90;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;IoT+%26+Smart+Systems+%F0%9F%93%A1;Always+Learning+%F0%9F%9A%80)
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0xasr.dev-00F7FF?style=flat-square&logo=google-chrome&logoColor=black)](https://0xasr.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Avneesh_Singh-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/avneesh-singh-dev)
+[![Twitter](https://img.shields.io/badge/Twitter%2FX-@0xASR__dev-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/0xASR_dev)
+[![Kaggle](https://img.shields.io/badge/Kaggle-0xASRdev-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/0xASRdev)
+[![Email](https://img.shields.io/badge/Email-avneeshsingh.job@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:avneeshsingh.job@gmail.com)
 
 </div>
 
 ---
 
-
-## 🌐 Connect With Me
+## 👨‍💻 About Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avneesh-singh-dev)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xASR_dev)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://0xasr.dev)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avneeshsingh.job@gmail.com)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/0xASRdev)
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Avneesh Singh Rajpoot"
+        self.alias = "0xASR"
+        self.academic_path = [
+            "BS in Data Science & Applications @ IIT Madras",
+            "B.Tech in IoT Engineering @ MITS Gwalior"
+        ]
+        self.core_competencies = [
+            "Data Science & Predictive Analytics",
+            "Full-Stack Web Development",
+            "IoT & Embedded Smart Systems",
+            "Cybersecurity & Security Analytics"
+        ]
+        self.current_focus = [
+            "Deep Learning & Computer Vision",
+            "Scalable Civic Tech & Microservices",
+            "Edge AI & IoT Security"
+        ]
+
+    def execute(self):
+        return "Transforming raw data and hardware into intelligent, secure software. 🚀"
+
+print(Developer().execute())
+```
 
 </div>
 
-<!-- these are new element for socials -->
-<!-- <div align="center">
-  <a href="https://linkedin.com/in/avneesh-singh-dev">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/0xASR_dev">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="52" height="40" alt="twitter logo" />
-  </a>
-  <a href="mailto:avneeshsingh.job@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-  <a href="https://kaggle.com/0xASRdev">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="52" height="40" alt="kaggle logo" />
-  </a>
-  <a href="https://0xasr.dev">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="52" height="40" alt="chrome logo" />
-  </a>  
-</div> -->
-
-
-----
-
-## 🚀 About Me
-
-```python
-class DataScienceStudent:
-    def __init__(self):
-        self.name = "ASR"
-        self.role = "Data Science & ML Student | Full Stack Developer"
-        self.education = {
-            "btech": "IoT Engineering - MITS Gwalior, MP",
-            "bs": "Data Science & Applications - IIT Madras"
-        }
-        self.languages = ["Python", "JavaScript", "R", "Java", "C++", "SQL"]
-        self.specialization = ["Machine Learning", "Data Analysis", "Web Development", "IoT Systems"]
-        self.interests = ["AI/ML", "Cybersecurity", "Full Stack Development", "Smart Systems"]
-        self.current_focus = ["Deep Learning", "Data Visualization", "Security Analytics"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's innovate with data and code together 📊🚀")
-
-me = DataScienceStudent()
-me.say_hi()
-```
+- 🎓 **Dual Degree Track:** Pursuing **BS in Data Science & Applications** at **IIT Madras** alongside **B.Tech in IoT Engineering** at **MITS Gwalior**.
+- 🛠️ **Engineering Mindset:** Building production-ready software that connects real-world hardware, IoT sensors, and machine learning models with responsive full-stack architectures.
+- 🔭 **Current Pursuits:** Advancing in deep learning algorithms, computer vision, data visualization, and secure sandbox computing.
+- 💬 **Ask me about:** Python, data processing pipelines, MERN/Full-Stack web apps, IoT sensor integration, or tech exploration.
+- ⚡ **Fun Fact:** `water.exe` is my most reliable dependency, and I debug Python faster than solving a Rubik's cube.
 
 ---
 
@@ -86,108 +64,51 @@ me.say_hi()
 
 <div align="center">
 
-| 🏛️ **Institution** | 📚 **Program** | 📍 **Location** | 📅 **Status** |
-|:---:|:---:|:---:|:---:|
-| **MITS Gwalior** | B.Tech in IoT Engineering | Madhya Pradesh, India | 🎯 Currently Enrolled |
-| **IIT Madras** | BS in Data Science & Applications | Tamil Nadu, India | 🎯 Currently Enrolled |
+| 🏛️ Institution | 📚 Program | 📍 Location | 🎯 Status |
+|:---|:---|:---:|:---:|
+| **IIT Madras** | **BS in Data Science & Applications** | Chennai, Tamil Nadu, India | Enrolled |
+| **MITS Gwalior** | **B.Tech in IoT Engineering** | Gwalior, Madhya Pradesh, India | Enrolled |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
-### Data Science & ML
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+### 🧠 Data Science & Machine Learning
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,r,pytorch,tensorflow,scikitlearn,pandas,numpy&theme=dark" alt="Data Science & ML" />
+</a>
 
-### Web Development
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br/>
 
-### IoT & Hardware
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🌐 Full-Stack & Web Engineering
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,tailwind,html,css&theme=dark" alt="Web Dev" />
+</a>
 
-### Security & Tools
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br/>
 
-</div>
+### 💾 Databases & Backend Infrastructure
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,postman&theme=dark" alt="Databases" />
+</a>
 
----
+<br/>
 
-## ⏰ All Coding Activity
+### 🔌 IoT, Embedded & Systems Programming
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,arduino,raspberrypi&theme=dark" alt="IoT & Systems" />
+</a>
 
-<div align="center">
-  
- [![wakatime](https://wakatime.com/badge/user/f9369397-0e98-4447-88ab-5cc069cc602f.svg)](https://wakatime.com/@f9369397-0e98-4447-88ab-5cc069cc602f)
-  
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=0xASR_dev&theme=tokyonight&layout=compact"/>
+<br/>
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xASR-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xASR-dev&layout=compact&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xASR-dev&theme=tokyonight)
-  
-</div>
-
----
-
-## 🎯 Current Focus & Projects
-
-<div align="center">
-
-| 🔭 **Currently Working On** | 🌱 **Learning** | 🤝 **Looking to Collaborate** |
-|:---:|:---:|:---:|
-| ML models for IoT security | Advanced Deep Learning | Data Science projects |
-| Smart home automation system | Computer Vision with OpenCV | Full stack web applications |
-| Cybersecurity data analysis | Cloud computing (AWS/Azure) | Open source ML tools |
-| Real-time data dashboards | Blockchain fundamentals | IoT security research |
-
-</div>
-
----
-
-## 🏆 Skills & Expertise
-
-<div align="center">
-
-| 📊 Data Science & Analytics | 🌐 Web Development | 🔗 IoT & Smart Systems | 🛡️ Cybersecurity |
-|:---:|:---:|:---:|:---:|
-| Exploratory Data Analysis (EDA)<br>Statistical Modeling<br>Machine Learning Algorithms<br>Data Visualization<br>Deep Learning & Neural Networks<br>Feature Engineering & Selection | Frontend: React, HTML, CSS<br>Backend: Node.js, Express<br>Databases: MongoDB, MySQL<br>Full Stack Development<br>Responsive Web Design<br>Deployment & DevOps | Sensor Integration<br>Embedded Systems Programming<br>IoT Data Analytics<br>IoT Security Implementation<br>Cloud IoT Platforms<br>Smart Home Automation | Network Security Analysis<br>Security Data Analytics<br>Vulnerability Assessment<br>Security Tool Development<br>Threat Intelligence Analysis |
+### 🛡️ DevOps, Security & Developer Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,kali,vscode&theme=dark" alt="Tools & Security" />
+</a>
 
 </div>
 
@@ -197,78 +118,58 @@ me.say_hi()
 
 <div align="center">
 
-### 🎯 **Recent Highlights**
-
-| 📊 **Data Science** | 🌐 **Web Development** | 🔗 **IoT Projects** |
-
-soon to be updated
-<!-- |:---:|:---:|:---:|
-| Customer Churn Prediction | E-commerce Full Stack App | Smart Home Security System |
-| Stock Price Forecasting | Real-time Chat Application | IoT Environmental Monitor |
-| Sentiment Analysis Tool | Portfolio Website | Smart Agriculture System | -->
+| Project | Description | Tech Stack | Links |
+|:---|:---|:---|:---:|
+| 🏛️ **Project SUNWAI** | Civic intelligence & grievance platform: *"Every district heard. Every rupee justified."* | `Python` `Data Analytics` `Web UI` | [![Repo](https://img.shields.io/badge/GitHub-SUNWAI-00F7FF?style=flat-square&logo=github)](https://github.com/0xASR-dev/SUNWAI) |
+| 🤝 **IESCP-V2** | Influencer & Sponsor Engagement Platform with end-to-end campaign management and collaboration workflows. | `JavaScript` `Node.js` `Express` `MongoDB` | [![Repo](https://img.shields.io/badge/GitHub-IESCP--V2-00F7FF?style=flat-square&logo=github)](https://github.com/0xASR-dev/IESCP-V2) |
+| 📈 **FinScope** | Modern financial intelligence and analytics dashboard front-end with responsive metrics. | `React` `TailwindCSS` `Data Viz` | [![Repo](https://img.shields.io/badge/GitHub-FinScope-00F7FF?style=flat-square&logo=github)](https://github.com/0xASR-dev/FinScope) |
+| 🎬 **IMDb Top Series Tracker** | Automated Python web scraper tracking IMDb's top 25 series, deployed with automated weekly GitHub Actions runs. | `Python` `BeautifulSoup` `GitHub Actions` | [![Repo](https://img.shields.io/badge/GitHub-IMDb_Tracker-00F7FF?style=flat-square&logo=github)](https://github.com/0xASR-dev/IMDB_top_series_scrapper) |
+| 📦 **goboxd** | Go HTTP service for executing untrusted code within isolated and secure sandbox environments. | `Go` `Sandboxing` `Security` | [![Repo](https://img.shields.io/badge/GitHub-goboxd-00F7FF?style=flat-square&logo=github)](https://github.com/0xASR-dev/goboxd) |
+| 🔔 **Terminal Error Sound** | Lightweight VS Code extension playing meme audio cues whenever a CLI terminal command fails. | `TypeScript` `VS Code API` | [![Repo](https://img.shields.io/badge/GitHub-Extension-00F7FF?style=flat-square&logo=github)](https://github.com/0xASR-dev/terminal-error-sound) |
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📊 GitHub Analytics & Coding Activity
 
 <div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xASR-dev&theme=chartreuse-dark&hide_border=true)
-  
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xASR-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xASR-dev&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=0xASR-dev&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
+<br/><br/>
+
+[![WakaTime Badge](https://wakatime.com/badge/user/f9369397-0e98-4447-88ab-5cc069cc602f.svg)](https://wakatime.com/@f9369397-0e98-4447-88ab-5cc069cc602f)
+<br/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=0xASR_dev&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
+
 </div>
 
-<div align="center" >
-  <h3>Contributions</h3>
-</div>
-<div align="center" style="margin-top:-10mm;">
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/0xASR-dev/0xASR-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-
-
----
-
-## 💡 Fun Facts & Interests
-
-<div align="left">
-
-```
-🔸 I can debug Python code faster than I can solve a Rubik's cube
-🔸 My IoT devices probably know me better than I know myself
-🔸 I dream in algorithms and wake up thinking in data structures
-🔸 water.exe is my most reliable dependency
-🔸 I speak fluent Python, JavaScript, and data visualization
-🔸 Always excited about the intersection of AI, IoT, and Security!
-```
-
-</div>
-
----
-
-## 📚 Latest Learning & Articles
-
-<!-- BLOG-POST-LIST:START -->
-<!-- 🔗 [Building ML Models for IoT Security](https://0xasr.dev/ml-iot-security)
-🔗 [Full Stack Development with MERN Stack](https://0xasr.dev/mern-stack-guide)
-🔗 [Data Visualization Best Practices](https://0xasr.dev/data-viz-guide)
-🔗 [Smart Home Automation with Raspberry Pi](https://0xasr.dev/smart-home-pi)
-BLOG-POST-LIST:END -->
-
 ---
 
 <div align="center">
 
-### 🎯 "The best way to predict the future is to create it with data" - Peter Drucker
+### 💡 *"The best way to predict the future is to create it with data."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=0xASR-dev&color=brightgreen&style=for-the-badge)
+[![Profile Views](https://komarev.com/ghpvc/?username=0xASR-dev&color=00F7FF&style=flat-square&label=PROFILE+VIEWS)](https://github.com/0xASR-dev)
 
-**Thanks for visiting! 🚀 Feel free to reach out if you want to collaborate on Data Science, ML, Web Development, or IoT projects!**
+<br/>
+
+**Always open to collaborations, open-source initiatives, and exciting opportunities.**<br/>
+Drop a star ⭐ on repositories you find interesting or connect on [LinkedIn](https://linkedin.com/in/avneesh-singh-dev)!
 
 </div>
-
----
-
-
-
