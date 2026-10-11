@@ -9,12 +9,12 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0xasr.dev-00F7FF?style=flat-square&logo=google-chrome&logoColor=black)](https://0xasr.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Avneesh_Singh-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/avneesh-singh-dev)
-[![Twitter](https://img.shields.io/badge/Twitter%2FX-@0xASR__dev-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/0xASR_dev)
-[![Instagram](https://img.shields.io/badge/Instagram-0xasr.dev-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/0xasr.dev)
-[![Kaggle](https://img.shields.io/badge/Kaggle-0xASRdev-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/0xASRdev)
-[![Email](https://img.shields.io/badge/Email-avneeshsingh.job@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:avneeshsingh.job@gmail.com)
+[![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=0xasr.dev&color=00F7FF&style=flat-square&logo=googlechrome&logoColor=black)](https://0xasr.dev)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Avneesh_Singh&color=0077B5&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/avneesh-singh-dev)
+[![Twitter](https://img.shields.io/static/v1?label=Twitter%2FX&message=@0xASR_dev&color=1DA1F2&style=flat-square&logo=x&logoColor=white)](https://twitter.com/0xASR_dev)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=0xasr.dev&color=E4405F&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/0xasr.dev)
+[![Kaggle](https://img.shields.io/static/v1?label=Kaggle&message=0xASRdev&color=20BEFF&style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/0xASRdev)
+[![Email](https://img.shields.io/static/v1?label=Email&message=Contact&color=EA4335&style=flat-square&logo=gmail&logoColor=white)](mailto:avneeshsingh.job@gmail.com)
 
 </div>
 
@@ -126,7 +126,7 @@ print(Developer().execute())
 | 📈 **FinScope** | Modern financial intelligence and analytics dashboard front-end with responsive metrics. | `React` `TailwindCSS` `Data Viz` | [![Repo](https://img.shields.io/badge/GitHub-FinScope-00F7FF?style=flat-square&logo=github)](https://github.com/0xASR-dev/FinScope) |
 | 🎬 **IMDb Top Series Tracker** | Automated Python web scraper tracking IMDb's top 25 series, deployed with automated weekly GitHub Actions runs. | `Python` `BeautifulSoup` `GitHub Actions` | [![Repo](https://img.shields.io/badge/GitHub-IMDb_Tracker-00F7FF?style=flat-square&logo=github)](https://github.com/0xASR-dev/IMDB_top_series_scrapper) |
 | 📦 **goboxd** | Go HTTP service for executing untrusted code within isolated and secure sandbox environments. | `Go` `Sandboxing` `Security` | [![Repo](https://img.shields.io/badge/GitHub-goboxd-00F7FF?style=flat-square&logo=github)](https://github.com/0xASR-dev/goboxd) |
-| 🔔 **Terminal Error Sound** | Lightweight VS Code extension playing meme audio cues whenever a CLI terminal command fails. | `TypeScript` `VS Code API` | [![Repo](https://img.shields.io/badge/GitHub-Extension-00F7FF?style=flat-square&logo=github)](https://github.com/0xASR-dev/terminal-error-sound) |
+| 🔔 **Terminal Error Sound** | Lightweight VS Code extension playing meme audio cues whenever a CLI terminal command fails. | `TypeScript` `VS Code API` | [![Repo](https://img.shields.io/static/v1?label=GitHub&message=Extension&color=00F7FF&style=flat-square&logo=github)](https://github.com/0xASR-dev/terminal-error-sound) |
 
 </div>
 
